@@ -125,7 +125,7 @@ nav .menu ul li a:hover {
 
 
 header {
-  background-image: url("/Files/Images/images.jpeg");
+  background-image: url("Files/Images/images.jpeg");
   background-size: cover;
   position: relative;
   height: calc(100vh - 65px);
